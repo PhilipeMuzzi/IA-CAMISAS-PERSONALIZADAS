@@ -1,4 +1,4 @@
-# Construção e implementanção de um website 3D com inteligência artificial usando o React
+# Construção e implementanção de um website 3D com inteligência artificial usando o React e Node.js 
 
 <p align="center">
   <img src="client/src/assets/persona1.PNG" />
